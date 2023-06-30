@@ -15,9 +15,24 @@
       <li>En este proyecto, realicé un análisis de jugadas de fútbol aplicando técnicas de Data Science. Utilicé visualizaciones de mapas de calor para analizar los pases y las acciones defensivas en coordenadas específicas de la cancha, identificando patrones de juego.</li>
       <li>Generé redes de pases para identificar los circuitos de juego de un equipo y desarrollé un modelo de predicción de gol esperado utilizando variables como la ubicación del tiro, el ángulo y la parte del cuerpo utilizada.</li>
       <li>Los resultados fueron evaluados comparándolos con un modelo de referencia y obtuve valores similares.</li>
-    </p>
+   </p>
+  </li>
+  <h3>3) Predicción de compra como respuesta a una campaña de marketing. Predicción del ingreso del consumidor. </h3>
+   </p>
+  </li>
+  <h3>4) Segmentación de clientes de Smart Watchs usando KMeans y HDBSCAN. </h3>
+   </p>
+  </li>
+  <h3>5) Prediccion de Potabilidad del agua y creación de App con uso de FastAPI.</h3>
+   </p>
+  </li>
+  <h3>6) Prediccion de la Satisfacción del Vuelo y creación de App con Gradio. </h3>
+    <p>
   </li>
 </ul>
+
+
+
 
 <h2>Objetivos Futuros</h2>
 
