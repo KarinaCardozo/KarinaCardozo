@@ -8,6 +8,7 @@
     <p>
       <li>En este proyecto, desarrollé un sistema de detección de fraude utilizando técnicas de Machine Learning. Utilicé algoritmos de clasificación y clustering para identificar patrones sospechosos en los datos transaccionales de una empresa de comercio electrónico.</li>
       <li>El sistema demostró ser efectivo en la detección de fraudes, contribuyendo a la seguridad y confiabilidad de las transacciones.</li>
+       <li>Te invito a conocer mi App:▶️https://huggingface.co/spaces/KarinaCardozo/Prevencion_de_Fraude 
     </p>
   </li>
     <h3>2) Obtención de Valor en Jugadas de Fútbol</h3>
