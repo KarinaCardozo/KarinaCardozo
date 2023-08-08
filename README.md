@@ -1,43 +1,36 @@
-<h2>Propósito 📊</h2>
-<p>Generar un portfolio que destaque los proyectos que he realizado y demuestre mis habilidades en el campo de Data Science.</p>
-
-<h2>Proyectos Destacados</h2>
-
+<h2>Purpose 📊</h2>
+<p>To create a portfolio that showcases the projects I have undertaken and demonstrates my skills in the field of Data Science.</p>
+<h2>Featured Projects</h2>
 <ul>
-    <h3>1) Detección de Fraude</h3>
+    <h3>1) Fraud Detection</h3>
     <p>
-      <li>En este proyecto, desarrollé un sistema de detección de fraude utilizando técnicas de Machine Learning. Utilicé algoritmos de clasificación y clustering para identificar patrones sospechosos en los datos transaccionales de una empresa de comercio electrónico.</li>
-      <li>El sistema demostró ser efectivo en la detección de fraudes, contribuyendo a la seguridad y confiabilidad de las transacciones.</li>
-       <li>Te invito a conocer mi App:▶️https://huggingface.co/spaces/KarinaCardozo/PrevencionFraude 
+      <li>In this project, I developed a fraud detection system using Machine Learning techniques. I applied classification and clustering algorithms to identify suspicious patterns in the transactional data of an e-commerce company.</li>
+      <li>The system proved to be effective in detecting fraud, contributing to the security and reliability of transactions.</li>
+       <li>Check out my App:▶️https://huggingface.co/spaces/KarinaCardozo/PrevencionFraude 
     </p>
   </li>
-    <h3>2) Obtención de Valor en Jugadas de Fútbol</h3>
+    <h3>2) Identifying High-Value Plays in Soccer</h3>
     <p>
-      <li>En este proyecto, realicé un análisis de jugadas de fútbol aplicando técnicas de Data Science. Utilicé visualizaciones de mapas de calor para analizar los pases y las acciones defensivas en coordenadas específicas de la cancha, identificando patrones de juego.</li>
-      <li>Generé redes de pases para identificar los circuitos de juego de un equipo y desarrollé un modelo de predicción de gol esperado utilizando variables como la ubicación del tiro, el ángulo y la parte del cuerpo utilizada.</li>
-      <li>Los resultados fueron evaluados comparándolos con un modelo de referencia y obtuve valores similares.</li>
+      <li>In this project, I conducted an analysis of football plays using Data Science techniques. I used heatmaps to analyze passes and defensive actions at specific coordinates on the field, identifying gameplay patterns.</li>
+      <li>I generated pass networks to identify a team's playing circuits and developed a model to predict expected goals using variables such as shot location, angle, and body part used.</li>
+      <li>The results were evaluated against a reference model and achieved similar values.</li>
    </p>
   </li>
-  <h3>3) Predicción de compra como respuesta a una campaña de marketing. Predicción del ingreso del consumidor. </h3>
+  <h3>3) Purchase Prediction in Response to Marketing Campaigns. Consumer Income Prediction.</h3>
    </p>
   </li>
-  <h3>4) Segmentación de clientes de Smart Watchs usando KMeans y HDBSCAN. </h3>
+  <h3>4) Customer Segmentation of Smart Watches using KMeans and HDBSCAN.</h3>
    </p>
   </li>
-  <h3>5) Prediccion de Potabilidad del agua y creación de App con uso de FastAPI.</h3>
+  <h3>5) Water Potability Prediction and App Creation using FastAPI.</h3>
    </p>
   </li>
-  <h3>6) Prediccion de la Satisfacción del Vuelo y creación de App con Gradio. </h3>
+  <h3>6) Flight Satisfaction Prediction and App Creation using Gradio.</h3>
     <p>
   </li>
 </ul>
-
-
-
-
-<h2>Objetivos Futuros</h2>
-
+<h2>Future Objectives</h2>
 <ul>
-  <li>Continuar aprendiendo y aplicando técnicas avanzadas de Data Science en proyectos desafiantes. Contribuir al desarrollo de soluciones analíticas que permitan la toma de decisiones basadas en datos. Participar en equipos multidisciplinarios y colaborar en la generación de valor a través del análisis de datos.</li>
-  <li>Busco oportunidades profesionales que me permitan seguir creciendo en el campo de Data Science y aportar mi experiencia en proyectos innovadores.</li>
+  <li>Continue learning and applying advanced Data Science techniques in challenging projects. Contribute to the development of analytical solutions that enable data-driven decision-making. Collaborate in multidisciplinary teams and contribute value through data analysis.</li>
+  <li>I am seeking professional opportunities that allow me to further grow in the field of Data Science and contribute my expertise to innovative projects.</li>
 </ul>
